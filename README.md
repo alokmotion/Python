@@ -32,7 +32,14 @@
  </p>
  
  ![image](https://user-images.githubusercontent.com/95286756/215192704-243a05d1-94e1-4888-9694-9112eecd247d.png)
-
+ 
+ 
+ <h2> List in Python </h2> 
+ <p> 
+ * List is an Ordered sequence of items.It is one of the most used datatype in pyhton and is very flexible.
+ * Declaring  a list is, items separated by commas are enclosed within brackets[].
+ </p>
+  Alist = [10, 20.5, "hello" ]
  
 
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
