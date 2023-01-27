@@ -18,7 +18,12 @@
  Identifier is a name used to identify a variable, function, class, module, etc. The identifier is a combination of character digits and underscore. The identifier should start with a character or Underscore then use a digit. 
 </p>
  
+ <h2> Comments in Python in Pyhton </h2> 
+ <p> Comments are lines that exist in computer programs that are ignored by compilers and interpreters. <br>
+ <bold> Symbol </bold> --> # for single line <br>
+ ''' for multiline ''' <br>
  
+ </p>
 
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
 <h5> Q2. Write a program to print the sum of the first 10 numbers (1-10). </h5>
