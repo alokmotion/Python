@@ -30,6 +30,7 @@
  <p> 
  Every value in Python has a datatype. Since everything is an object in Python programming , data types are actually classes and variables are instance (object) of these classes. 
  </p>
+ 
  ![image](https://user-images.githubusercontent.com/95286756/215192704-243a05d1-94e1-4888-9694-9112eecd247d.png)
 
  
