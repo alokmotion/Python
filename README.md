@@ -20,7 +20,7 @@
  
  <h2> Comments in Python in Pyhton </h2> 
  <p> Comments are lines that exist in computer programs that are ignored by compilers and interpreters. <br>
- <bold> Symbol </bold> --> # for single line <br>
+ Symbol: # for single line <br>
  ''' for multiline ''' <br>
  
  </p>
