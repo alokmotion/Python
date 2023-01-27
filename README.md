@@ -26,6 +26,11 @@
  </p>
  
  <h2> Variable </h2>
+ <h2> Data Types in Python </h2>
+ <p> 
+ Every value in Python has a datatype. Since everything is an object in Python programming , data types are actually classes and variables are instance (object) of these classes. 
+ </p>
+ 
 
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
 <h5> Q2. Write a program to print the sum of the first 10 numbers (1-10). </h5>
