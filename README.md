@@ -1,6 +1,6 @@
 #Python
 <h1> Day 1 </h1>
-<h2> Pyhton Keyword </h2>
+<h2> Keywords in Pyhton </h2>
 <p>
 * Keywords are the reserved words in python <br>
 * we can't use a keyword as variable name, function name or any other identifier <br>
@@ -11,6 +11,12 @@
 , 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 
  total no of keywords: 35
+ 
+ 
+ <h2> Identifier in Pyhton </h2>
+ <p> 
+ Identifier is a name used to identify a variable, function, class, module, etc. The identifier is a combination of character digits and underscore. The identifier should start with a character or Underscore then use a digit. 
+</p>
  
  
 
