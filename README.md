@@ -66,6 +66,23 @@ set object does not support indexing </p>
  d = {'a' : "apple", 'b': "bat" }
 
 
+<h2> Operators in Pyhton </h2>
+<p> Operators are special symbols in Python that carry out arithmetic and logical computation. <br> 
+the value that operator on is called the operand.
+
+Type : -
+
+1. Arithmetic Operators <br>
+2. Comparison (Relational) operators <br>
+3. Logical(Boolean) Operators <br>
+4. Bitwise Operators <br>
+5. Assignment Operators <br>
+6. Special Operators <br>
+
+
+</p>
+
+
 
 
 
