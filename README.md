@@ -57,6 +57,19 @@ Atuple =  (1,1.5,"ML")
 <p> Note: we can perform set operations like  union , intersection on two sets. set have unique values <br>
 set object does not support indexing </p>
 
+<h2> Dictionary in Python <h2/>
+ <p> Dictionary is an unordered collection of key-value pairs. <br>
+  in Pyhton, dictionary are defined within braces {} with each item being a pair in the form key: value. <br> key and value can be of any type.
+  
+ </p>
+ 
+ d = {'a' : "apple", 'b': "bat" }
+
+
+
+
+
+
 
 
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
