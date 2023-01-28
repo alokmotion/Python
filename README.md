@@ -47,6 +47,18 @@ Tuple is an ordered sequence of items same as list. the only difference is that 
 tuples once created cannot be modified. </p>
 Atuple =  (1,1.5,"ML")
 
+<h2> Set in Python </h2>
+<p>
+ Set is unordered collection of unique items. Set is defined by values separated by comma inside braces {}. Items in a set are not ordered. 
+ </p>
+ 
+ a = {10,30,20,40,5 }
+ 
+<p> Note: we can perform set operations like  union , intersection on two sets. set have unique values <br>
+set object does not support indexing </p>
+
+
+
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
 <h5> Q2. Write a program to print the sum of the first 10 numbers (1-10). </h5>
 <h5> Q3. Write a program to print numbers from 1 - 10 with each number printed in a separate line. </h5>
