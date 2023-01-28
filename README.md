@@ -72,12 +72,13 @@ the value that operator on is called the operand.
 
 Type : -
 
-1. Arithmetic Operators <br>
-2. Comparison (Relational) operators <br>
-3. Logical(Boolean) Operators <br>
-4. Bitwise Operators <br>
-5. Assignment Operators <br>
-6. Special Operators <br>
+1. Arithmetic Operators  - <p2> Arithmetic operators are used to perform mathmatical operations like addition,subtraction,multiplication etc.<br>
+2. Comparison (Relational) operators - Comparison operators sre used to compare values. It either returns True or False according to the condition. (>,<,==,!=,>=,<=,) <br>
+3. Logical(Boolean) Operators - --> and, or, not  <br>
+4. Bitwise Operators ---> Bitwise operators act on operands as if they were string of binary digits. It operates bit by bit (&, |, ~, ^, >>, <<) <br>
+5. Assignment Operators - Assignment operators are used in pyhton to assign values to variables (=, +=, -=, /=, %=, //=, **=, &=, |=, ^=, >>=, <<=, ) <br>
+6. Special Operators - 'is' and 'is not' are the identity operators in pyhton  <br>
+7. Membership operators --(in and not in)  they are used to test whether a value or variable is found in a sequence (string, list, tuple, set and dictionary). <br>
 
 
 </p>
