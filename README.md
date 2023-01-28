@@ -41,15 +41,11 @@
  </p>
   Alist = [10, 20.5, "hello" ]
  
- ![image](https://user-images.githubusercontent.com/95286756/215194891-7ec06a61-1af7-4ab5-8ecd-29effe57bb2d.png)
-
-![image](https://user-images.githubusercontent.com/95286756/215195268-1467709f-d105-4e34-84bf-792549c9b4d6.png)
-
-
-![image](https://user-images.githubusercontent.com/95286756/215195514-13c48c68-4b00-4cff-8a03-39584d4c98b9.png)
-
-![image](https://user-images.githubusercontent.com/95286756/215196183-317a8308-0140-4904-8cc8-8ad13e432f40.png)
-
+<h2> Tuple in Pyhton </h2>
+<p>
+Tuple is an ordered sequence of items same as list. the only difference is that tuples are immutable.
+tuples once created cannot be modified. </p>
+Atuple =  (1,1.5,"ML")
 
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
 <h5> Q2. Write a program to print the sum of the first 10 numbers (1-10). </h5>
