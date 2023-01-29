@@ -102,4 +102,6 @@ Type : -
 <h5> Q2. Write a program to print the sum of the first 10 numbers (1-10). </h5>
 <h5> Q3. Write a program to print numbers from 1 - 10 with each number printed in a separate line. </h5>
  <h5> Q4. Pyhton program to find the largest element among three number </h5>
+ <h5> Q5. find the product of all number present im a list
+lst = [10, 20, 30, 40, 50] </h5>
  
