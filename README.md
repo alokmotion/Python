@@ -93,6 +93,10 @@ Type : -
  <p> We can have an if…elif…else statement inside another if…elif…else statement. This is called nesting in computer programming. </p>
  
  
+ <h2> while loop </h2>
+ <p> The while loop in python is used to iterate over a block of code as long as the expression(condition) is true.
+  
+  
 
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
 <h5> Q2. Write a program to print the sum of the first 10 numbers (1-10). </h5>
