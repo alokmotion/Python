@@ -97,11 +97,23 @@ Type : -
  <p> The while loop in python is used to iterate over a block of code as long as the expression(condition) is true.
   
   
+<h2> break and continue Statements in Pyhton </h5> 
+<p>
+in Pyhton, break and continue statements can alter the flow of normal loop. <br>
+Loops iterate over a block of code until test expression is false,but sometimes we wish to terminate the current iteration or even the whole loop without cheking test expression. <br>
+the break and continue statements are used in these cases.
+</p>
 
+
+------------------------------------------------------------------------------------------------------------------------
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
 <h5> Q2. Write a program to print the sum of the first 10 numbers (1-10). </h5>
 <h5> Q3. Write a program to print numbers from 1 - 10 with each number printed in a separate line. </h5>
  <h5> Q4. Pyhton program to find the largest element among three number </h5>
- <h5> Q5. find the product of all number present im a list
+ <h5> Q5. find the product of all number present im a list-->
 lst = [10, 20, 30, 40, 50] </h5>
+
+<h5>  python Program to display all prime numbers within an interval
+</h5>
+
  
