@@ -104,6 +104,9 @@ Loops iterate over a block of code until test expression is false,but sometimes 
 the break and continue statements are used in these cases.
 </p>
 
+<h2> Append in Python? </h2>
+<p> Python’s append() function inserts a single element into an existing list. The element will be added to the end of the old list rather than being returned to a new list. </p>
+
 
 ------------------------------------------------------------------------------------------------------------------------
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
@@ -113,7 +116,7 @@ the break and continue statements are used in these cases.
  <h5> Q5. find the product of all number present im a list-->
 lst = [10, 20, 30, 40, 50] </h5>
 
-<h5>  python Program to display all prime numbers within an interval
+<h5> Q6. python Program to display all prime numbers within an interval
 </h5>
 
  
