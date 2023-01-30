@@ -144,6 +144,9 @@ def function_name(parameters): <br>
    <li> Doc string describe what the function does. this is optional </li>
     <li> "return" statement to return a value from the function. this is optional</li>
  </ol>
+ 
+ 
+ </p>
 
 ------------------------------------------------------------------------------------------------------------------------
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
