@@ -129,14 +129,15 @@ Function help break our program into smaller and modular chunks. As our program 
 
 It avoids repetition and makes code reusable. <br>
 Syntax: 
-  <code>
+ 
+ <pre><code>
 
 def function_name(parameters): 
  """ 
  Doc String 
  """ <br>
  Statements(s) 
- </code>
+ </code></pre>
   
  <ol> 
 
