@@ -6,12 +6,12 @@
 * we can't use a keyword as variable name, function name or any other identifier <br>
 * Keywords are case sentive <br>
 </p>
-
+<code><pre>
 ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from'
 , 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 
  total no of keywords: 35
- 
+ </code></pre>
  
  <h2> Identifier in Pyhton </h2>
  <p> 
@@ -131,12 +131,11 @@ It avoids repetition and makes code reusable. <br>
 Syntax: 
  
  <pre><code>
-
 def function_name(parameters): 
- """ 
- Doc String 
- """ <br>
- Statements(s) 
+    """ 
+    Doc String 
+    """ 
+    Statements(s) 
  </code></pre>
   
  <ol> 
