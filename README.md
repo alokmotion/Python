@@ -106,7 +106,11 @@ the break and continue statements are used in these cases.
 
 <h2> Append in Python? </h2>
 <p> Python’s append() function inserts a single element into an existing list. append will add the item at the end. </p>
-
+ 
+ <h2>  insert in pyhton </h2>
+ <p2> The insert() method inserts the specified value at the specified position. <br>
+  syntax: list.insert(pos, elmnt)
+ </p2>
 
 ------------------------------------------------------------------------------------------------------------------------
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
