@@ -120,8 +120,30 @@ lst.remove(element)
  <h3>  List Append & Extend  </h3>
 
 
+<h1> Function in Python </h1>
+<p>
 
+Function is a group of related statements that perform a specific task. <br>
 
+Function help break our program into smaller and modular chunks. As our program grows larger and larger, function make it more organized and manageable. <br>
+
+It avoids repetition and makes code reusable. <br>
+
+Syntax: 
+def function_name(parameters): <br>
+ """ <br>
+ Doc String <br>
+ """ <br>
+ Statements(s) <br>
+ 
+ 
+ <ol> 
+ <li> Keyword "def" marks the start of function header </li>
+ <li> Parameters (arguments) through which we pass values to a function. these are optional </li>
+  <li> A colon (:) to mark the end of function header </li>
+   <li> Doc string describe what the function does. this is optional </li>
+    <li> "return" statement to return a value from the function. this is optional</li>
+ </ol>
 
 ------------------------------------------------------------------------------------------------------------------------
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
