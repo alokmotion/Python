@@ -156,9 +156,16 @@ def function_name(parameters):
  <p> Once we have defined a function, we can call it from anywhere </p>
  
  
- <h2> return Statement <h2> 
+ <h2> return Statement </h2> 
  
 <p> the  return statement is used to exit a function and go back to the place from where it was called </p>
+
+
+
+
+
+<hr>
+
 ------------------------------------------------------------------------------------------------------------------------
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
 <h5> Q2. Write a program to print the sum of the first 10 numbers (1-10). </h5>
