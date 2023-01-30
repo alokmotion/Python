@@ -105,7 +105,7 @@ the break and continue statements are used in these cases.
 </p>
 
 <h2> Append in Python? </h2>
-<p> Python’s append() function inserts a single element into an existing list. The element will be added to the end of the old list rather than being returned to a new list. </p>
+<p> Python’s append() function inserts a single element into an existing list. append will add the item at the end. </p>
 
 
 ------------------------------------------------------------------------------------------------------------------------
