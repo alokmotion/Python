@@ -128,16 +128,19 @@ Function is a group of related statements that perform a specific task. <br>
 Function help break our program into smaller and modular chunks. As our program grows larger and larger, function make it more organized and manageable. <br>
 
 It avoids repetition and makes code reusable. <br>
-
 Syntax: 
-def function_name(parameters): <br>
+  <code>
+
+def function_name(parameters): 
+ """ 
+ Doc String 
  """ <br>
- Doc String <br>
- """ <br>
- Statements(s) <br>
- 
- 
+ Statements(s) 
+ </code>
+  
  <ol> 
+
+def function_name(parameters): 
  <li> Keyword "def" marks the start of function header </li>
  <li> Parameters (arguments) through which we pass values to a function. these are optional </li>
   <li> A colon (:) to mark the end of function header </li>
