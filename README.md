@@ -104,13 +104,24 @@ Loops iterate over a block of code until test expression is false,but sometimes 
 the break and continue statements are used in these cases.
 </p>
 
-<h2> Append in Python? </h2>
-<p> Python’s append() function inserts a single element into an existing list. append will add the item at the end. </p>
+<h3> Append() </h3>
+<p3> Python’s append() function inserts a single element into an existing list. append will add the item at the end. </p3>
  
- <h2>  insert in pyhton </h2>
- <p2> The insert() method inserts the specified value at the specified position. <br>
+ <h3>  insert() </h3>
+ <p3> The insert() method inserts the specified value at the specified position. <br>
   syntax: list.insert(pos, elmnt)
- </p2>
+ </p3>
+
+<h3> remove() </h3>
+<p3>  it will remove first occurence <br>
+lst.remove(element)
+ </p3>
+ 
+ <h3>  List Append & Extend  </h3>
+
+
+
+
 
 ------------------------------------------------------------------------------------------------------------------------
 <h5> Q1. Write a program that accepts sets of three numbers, and prints the second-maximum number among the three. </h5>
