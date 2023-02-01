@@ -167,7 +167,7 @@ def function_name(parameters):
 Global variables <br> 
 Local variables  <br>
  
- Global variables & Local variables
+ Global variables & Local variables -  
  
  Variables that are defined inside a function body have a local scope, and those defined outside have a global scope.
 </P>
