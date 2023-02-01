@@ -162,7 +162,11 @@ def function_name(parameters):
 
 
 <h2> Scope of Variables </h2>
-<p> </P>
+<p>  The scope of a variable determines the portion of the program where you can access a particular identifier. There are two basic scopes of variables in Python −
+
+Global variables <br> 
+Local variables  <br>
+</P>
 
 
 
