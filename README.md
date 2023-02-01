@@ -187,6 +187,7 @@ lst = [10, 20, 30, 40, 50] </h5>
 <h5> Q6. python Program to display all prime numbers within an interval
 </h5>
 
+<h5> Pyhton program to print Highest Common Factor(HCF)  of two numbers <h/5>
  
  
  
