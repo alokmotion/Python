@@ -172,8 +172,20 @@ Local variables  <br>
  Variables that are defined inside a function body have a local scope, and those defined outside have a global scope.
 </P>
 
+<h2> Type of  Arguments  </h2>
+<p>
 
+ Type of  
 
+1. Default Arguments
+2. Keyword Arguments 
+3. Arbitary Arguments
+ 
+ 
+ </p>
+ 
+ 
+ 
 <hr>
 
 ------------------------------------------------------------------------------------------------------------------------
