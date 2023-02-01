@@ -162,6 +162,7 @@ def function_name(parameters):
 
 
 <h2> Scope of Variables </h2>
+<p> </P>
 
 
 
@@ -178,4 +179,6 @@ lst = [10, 20, 30, 40, 50] </h5>
 <h5> Q6. python Program to display all prime numbers within an interval
 </h5>
 
+ 
+ 
  
