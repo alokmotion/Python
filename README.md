@@ -36,8 +36,8 @@
  
  <h2> List in Python </h2> 
  <p> 
- * List is an Ordered sequence of items.It is one of the most used datatype in pyhton and is very flexible.
- * Declaring  a list is, items separated by commas are enclosed within brackets[].
+ * List is an Ordered sequence of items.It is one of the most used datatype in pyhton and is very flexible. <br>
+ * Declaring  a list is, items separated by commas are enclosed within brackets[]. <br>
  </p>
   Alist = [10, 20.5, "hello" ]
  
