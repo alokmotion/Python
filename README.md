@@ -47,6 +47,11 @@ Tuple is an ordered sequence of items same as list. the only difference is that 
 tuples once created cannot be modified. </p>
 Atuple =  (1,1.5,"ML")
 
+<h2> List VS Tuple in Pyhton </h2>
+![image](https://user-images.githubusercontent.com/95286756/217412818-38d058e1-65c2-4c21-92aa-a6cd888e05f4.png)
+
+
+
 <h2> Set in Python </h2>
 <p>
  Set is unordered collection of unique items. Set is defined by values separated by comma inside braces {}. Items in a set are not ordered. 
