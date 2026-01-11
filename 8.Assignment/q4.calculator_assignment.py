@@ -23,12 +23,26 @@ class Calculator:
         self.AirthmaticOperation = AirthmaticOperation
         self.inputSize = inputSize
 
+    # def selectOperation(self):
+    #     if self.AirthmaticOperation == 1 : return self.add()
+    #     elif self.AirthmaticOperation == 2 : return self.sub()
+    #     elif self.AirthmaticOperation == 3 : return self.multi()
+    #     elif self.AirthmaticOperation == 4 : return self.div() 
+    #     else : print("Exit Program : Crl+C")
+
     def selectOperation(self):
-        if self.AirthmaticOperation == 1 : return self.add()
-        elif self.AirthmaticOperation == 2 : return self.sub()
-        elif self.AirthmaticOperation == 3 : return self.multi()
-        elif self.AirthmaticOperation == 4 : return self.div() 
-        else : print("Exit Program : Crl+C")
+        operations = {
+            1: self.add,
+            2: self.sub,
+            3: self.multi,
+            4: self.div
+        }
+        operation = operations.get(self.AirthmaticOperation)
+        if operation:
+            return operation()
+        else:
+            print("Exit Program : Crl+C")
+            return None
 
     def userInput(self):
         userinput = []
