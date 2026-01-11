@@ -9,12 +9,10 @@ def validateMarks():
         except ValueError:
             print("Invalid input. Please enter numeric value for marks.")
 
-
 class KnowYourGrade:
     def __init__(self,marks):
         self.marks = marks
 
-   
     def calculateGrade(self):
         if(90 <= self.marks <= 100):  
             return "A+"
