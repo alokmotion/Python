@@ -1,0 +1,15 @@
+a =  10
+
+for i in range(2,a):
+    print(" now i is = ", i)
+    for j in range(2,i):
+        print(" now j is = ", j)
+        if(i%j == 0):
+            print("this is the " ,i%j)
+            break
+
+    else:
+        print(" i am caaled" , i)
+        
+
+
